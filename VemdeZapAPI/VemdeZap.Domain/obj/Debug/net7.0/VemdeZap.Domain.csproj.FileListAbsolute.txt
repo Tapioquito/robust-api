@@ -1,0 +1,12 @@
+C:\dev\robust-api\VemdeZapAPI\VemdeZap.Domain\bin\Debug\net7.0\VemdeZap.Domain.deps.json
+C:\dev\robust-api\VemdeZapAPI\VemdeZap.Domain\bin\Debug\net7.0\VemdeZap.Domain.dll
+C:\dev\robust-api\VemdeZapAPI\VemdeZap.Domain\bin\Debug\net7.0\VemdeZap.Domain.pdb
+C:\dev\robust-api\VemdeZapAPI\VemdeZap.Domain\obj\Debug\net7.0\VemdeZap.Domain.csproj.AssemblyReference.cache
+C:\dev\robust-api\VemdeZapAPI\VemdeZap.Domain\obj\Debug\net7.0\VemdeZap.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\robust-api\VemdeZapAPI\VemdeZap.Domain\obj\Debug\net7.0\VemdeZap.Domain.AssemblyInfoInputs.cache
+C:\dev\robust-api\VemdeZapAPI\VemdeZap.Domain\obj\Debug\net7.0\VemdeZap.Domain.AssemblyInfo.cs
+C:\dev\robust-api\VemdeZapAPI\VemdeZap.Domain\obj\Debug\net7.0\VemdeZap.Domain.csproj.CoreCompileInputs.cache
+C:\dev\robust-api\VemdeZapAPI\VemdeZap.Domain\obj\Debug\net7.0\VemdeZap.Domain.dll
+C:\dev\robust-api\VemdeZapAPI\VemdeZap.Domain\obj\Debug\net7.0\refint\VemdeZap.Domain.dll
+C:\dev\robust-api\VemdeZapAPI\VemdeZap.Domain\obj\Debug\net7.0\VemdeZap.Domain.pdb
+C:\dev\robust-api\VemdeZapAPI\VemdeZap.Domain\obj\Debug\net7.0\ref\VemdeZap.Domain.dll
