@@ -5,6 +5,10 @@ namespace VemdeZap.Domain.Entities
 {
     public class User : BaseEntity
     {
+        protected User()
+        {
+            
+        }
         public User(string firstName, string lastName, string email, string password)
         {
             FirstName = firstName;

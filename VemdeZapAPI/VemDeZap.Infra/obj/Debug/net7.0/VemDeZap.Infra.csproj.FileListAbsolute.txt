@@ -1,0 +1,17 @@
+C:\dev\robust-api\VemdeZapAPI\VemDeZap.Infra\obj\Debug\net7.0\VemDeZap.Infra.csproj.AssemblyReference.cache
+C:\dev\robust-api\VemdeZapAPI\VemDeZap.Infra\obj\Debug\net7.0\VemDeZap.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\robust-api\VemdeZapAPI\VemDeZap.Infra\obj\Debug\net7.0\VemDeZap.Infra.AssemblyInfoInputs.cache
+C:\dev\robust-api\VemdeZapAPI\VemDeZap.Infra\obj\Debug\net7.0\VemDeZap.Infra.AssemblyInfo.cs
+C:\dev\robust-api\VemdeZapAPI\VemDeZap.Infra\obj\Debug\net7.0\VemDeZap.Infra.csproj.CoreCompileInputs.cache
+C:\dev\robust-api\VemdeZapAPI\VemDeZap.Infra\bin\Debug\net7.0\VemDeZap.Infra.deps.json
+C:\dev\robust-api\VemdeZapAPI\VemDeZap.Infra\bin\Debug\net7.0\VemDeZap.Infra.runtimeconfig.json
+C:\dev\robust-api\VemdeZapAPI\VemDeZap.Infra\bin\Debug\net7.0\VemDeZap.Infra.dll
+C:\dev\robust-api\VemdeZapAPI\VemDeZap.Infra\bin\Debug\net7.0\VemDeZap.Infra.pdb
+C:\dev\robust-api\VemdeZapAPI\VemDeZap.Infra\bin\Debug\net7.0\VemdeZap.Domain.dll
+C:\dev\robust-api\VemdeZapAPI\VemDeZap.Infra\bin\Debug\net7.0\VemdeZap.Domain.pdb
+C:\dev\robust-api\VemdeZapAPI\VemDeZap.Infra\obj\Debug\net7.0\VemDeZap.Infra.csproj.CopyComplete
+C:\dev\robust-api\VemdeZapAPI\VemDeZap.Infra\obj\Debug\net7.0\VemDeZap.Infra.dll
+C:\dev\robust-api\VemdeZapAPI\VemDeZap.Infra\obj\Debug\net7.0\refint\VemDeZap.Infra.dll
+C:\dev\robust-api\VemdeZapAPI\VemDeZap.Infra\obj\Debug\net7.0\VemDeZap.Infra.pdb
+C:\dev\robust-api\VemdeZapAPI\VemDeZap.Infra\obj\Debug\net7.0\VemDeZap.Infra.genruntimeconfig.cache
+C:\dev\robust-api\VemdeZapAPI\VemDeZap.Infra\obj\Debug\net7.0\ref\VemDeZap.Infra.dll

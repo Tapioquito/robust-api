@@ -22,4 +22,8 @@
     <ProjectReference Include="..\VemdeZap.Domain\VemdeZap.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+
 </Project>

@@ -6,6 +6,9 @@ using System.Reflection;
 using VemdeZap.Domain.Commands.User.UserAdd;
 using VemdeZap.Domain.Interfaces.Repositories;
 using VemDeZap.API.Security;
+using VemDeZap.Infra.Repositories;
+using VemDeZap.Infra.Repositories.Base;
+using VemDeZap.Infra.Repositories.Transactions;
 
 namespace VemDeZap.API
 {
@@ -68,7 +71,7 @@ namespace VemDeZap.API
                 .RequireAuthenticatedUser().Build();
                 config.Filters.Add(new AuthorizeFilter(policy));
             });
-            
+
             services.AddCors();
         }
         public static void ConfigureMeadiatR(IServiceCollection services)
@@ -78,11 +81,12 @@ namespace VemDeZap.API
         public static void ConfigureRepositories(IServiceCollection services)
         {
 
+            services.AddScoped<VemDeZapContext, VemDeZapContext>();
 
-            // services.AddScoped<PortalContext, PortalContext>();
-            //services.AddTransient<IUnitofWork, UnitofWork>();
+            services.AddTransient<IUnitOfWork, UnitOfWork>();
 
-            services.AddTransient<IRepositoryUser, RepositoryUser>();
+            services.AddTransient<IRepositoryUser, UserRepository>();
+            services.AddTransient<IRepositoryGroup, GroupRepository>();
         }
         public static void ConfigureSwagger(IServiceCollection services)
         {
@@ -93,6 +97,10 @@ namespace VemDeZap.API
             services.AddMvc(options =>
             { })
                            ;
+        }
+        public static void ConfigureHttpContext(IServiceCollection services)
+        {
+            services.AddHttpContextAccessor();
         }
     }
 }
